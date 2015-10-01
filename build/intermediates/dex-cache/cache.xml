@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/pre-dexed/debug/classes-4c57019839cb8356e779d1b69104e9a98aca00a7.jar" />
+    </item>
+    <item
+        jar="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f5958134db35e3e8219dea9a9fcf73a504d6a5c2.jar" />
+    </item>
+    <item
+        jar="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/pre-dexed/debug/classes-2381fece745f596b490c15b7db3b080704ffbac9.jar" />
+    </item>
+    <item
+        jar="/Users/sarathreddyvaddhi/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sarathreddyvaddhi/Documents/AndroidDev/AndroidStudioProjects/VendingMachine/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-7ede8faa40ec1b3642cb2541efe32ad2865b98f0.jar" />
+    </item>
+
+</items>
